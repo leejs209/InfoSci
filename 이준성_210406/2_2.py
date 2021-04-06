@@ -57,3 +57,10 @@ print(str(first) + '^' + str(second), '=', jisu)
 # 10^7 = 10000000
 #
 # Process finished with exit code 0
+
+
+x = 100
+x = y = z = 50
+
+print(x,y,z)
+
